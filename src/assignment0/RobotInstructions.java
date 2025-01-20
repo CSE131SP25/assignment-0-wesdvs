@@ -30,10 +30,23 @@ public class RobotInstructions  {
 		 * as you desire.
 		 */
 		robot.forward(60);
-		robot.turnLeft(90);
-		robot.forward(23);
-		robot.turnRight(90);
-		robot.forward(80);
+		robot.forward(60);
+		robot.turnLeft(75);
+		robot.forward(100);
+		robot.turnRight(15);
+		robot.forward(100);
+		robot.turnRight(30);
+		robot.forward(100);
+		robot.turnRight(15);
+		robot.forward(100);
+		robot.turnRight(110);
+		robot.forward(500);
+		robot.turnRight(110);
+		robot.forward(100);
+		robot.turnRight(15);
+		robot.forward(100);
+		robot.turnRight(10);
+		robot.forward(150);
 	}
 
 }
